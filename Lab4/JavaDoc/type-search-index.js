@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Lab4DavydaKI304","l":"ExpressionCalculator"},{"p":"Lab4DavydaKI304","l":"ExpressionCalculatorApp"}];updateSearchResults();
