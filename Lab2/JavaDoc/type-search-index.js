@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Lab2DavydaKI304","l":"Car"},{"p":"Lab2DavydaKI304","l":"CarDriver"},{"p":"Lab2DavydaKI304","l":"Engine"},{"p":"Lab2DavydaKI304","l":"MaxSpeed"}];updateSearchResults();
