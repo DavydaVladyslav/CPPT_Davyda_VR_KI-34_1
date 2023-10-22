@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Lab6DavydaKI304","l":"DoublyLinkedList"},{"p":"Lab6DavydaKI304","l":"DoublyLinkedListApp"}];updateSearchResults();
