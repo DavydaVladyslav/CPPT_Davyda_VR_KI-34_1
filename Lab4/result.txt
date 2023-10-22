@@ -1,0 +1,1 @@
+Result of calculating the expression: -10.428352127714058
